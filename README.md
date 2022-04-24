@@ -1,6 +1,6 @@
 # Know Your Rick And Morty
 
-A character from Rick And Morty is generated from your name using [https://rickandmortyapi.com/graphql](Rick And Morty API).
+A character from Rick And Morty is generated from your name using https://rickandmortyapi.com/graphql.
 
 ## How to run
 
